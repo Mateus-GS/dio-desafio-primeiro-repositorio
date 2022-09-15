@@ -1,2 +1,2 @@
 # DIO desafio primeiro repositorio
-Desafio da DIO para criar o primeiro repositório
+Esse repositório é um desafio do curso de introdução de Git e GutHub da Digital Innovation One. O objetivo do desafio é criar o primeiro repositório.
